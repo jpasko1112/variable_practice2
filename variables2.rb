@@ -26,3 +26,7 @@ name = "Will"
 city = "Manhatten"
 dogs_name = "ferocious_fredrick"
 
+puts "Do yoou want cheese?"
+puts "No, not my cheese!"
+puts "I will get you other cheese."
+
