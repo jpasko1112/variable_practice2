@@ -20,3 +20,9 @@ pie = 3.5
 is_you_happy = true
 is_you_sad = false
 
+# Strings
+
+name = "Will"
+city = "Manhatten"
+dogs_name = "ferocious_fredrick"
+
