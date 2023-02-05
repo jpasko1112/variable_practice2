@@ -10,3 +10,8 @@ age = 91
 wives = 17
 blocks_of_cheese = 14
 
+# Floats
+
+pi = 3.14
+pie = 3.5
+
