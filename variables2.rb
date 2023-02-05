@@ -15,3 +15,8 @@ blocks_of_cheese = 14
 pi = 3.14
 pie = 3.5
 
+# Booleans
+
+is_you_happy = true
+is_you_sad = false
+
