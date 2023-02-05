@@ -4,3 +4,9 @@ name = "jobe"
 city = "park_place"
 dogs_name = "phinius_phil"
 
+# Integers
+
+age = 91
+wives = 17
+blocks_of_cheese = 14
+
